@@ -3,7 +3,7 @@
 `obfuscate-mode` is a lightweight Emacs minor mode that dynamically obfuscates text in a buffer. It is useful for hiding sensitive information or obfuscating text during presentations or while working in shared environments.
 
 ## Screenshot
-![obfuscate mode](https://github.com/kborling/obfuscate-mode.el/blob/main/assets/obfuscate-mode.png)
+![obfuscate mode](https://github.com/kborling/obfuscate-mode.el/blob/main/obfuscate-mode.png)
 
 ## Features
 
